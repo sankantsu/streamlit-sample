@@ -2,6 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
 
+# Japanize matplotlib font
+import matplotlib_fontja  # noqa
+
 
 # Write string
 st.write("Hello, streamlit!")

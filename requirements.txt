@@ -1,3 +1,4 @@
 streamlit==1.41.1
 numpy==2.2.2
 matplotlib==3.10.0
+matplotlib-fontja==1.0.0
