@@ -1,5 +1,9 @@
 # Deploying app on streamlit cloud
 
+This app is deployed on:
+
+https://app-sample-8eaomhxhkjawbzexcvmxpm.streamlit.app/
+
 ## Prepare app
 
 Write your own streamlit app.
